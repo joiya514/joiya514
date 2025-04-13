@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Toseef Haider
 
-🎓 Computer Science Student | 💻 Python & Django Developer | 🤖 AI Enthusiast
+💻 Python & Django Developer |🎓 Computer Science Student | 🤖 AI Enthusiast
 
 Welcome to my GitHub! I'm passionate about building smart web applications using Python, Django, and Artificial Intelligence. Below are some of the projects I’ve worked on.
 
@@ -17,7 +17,7 @@ A Django-based interactive quiz platform inspired by social networks.
 - Follow/unfollow other users
 - User profiles and personalized quiz feed
 
-🔗 _Status: In Development_
+🔗 Django, HTML, CSS, JavaScript
 
 ---
 
@@ -45,9 +45,9 @@ A lightweight social platform built with Django.
 ---
 
 ## 🧠 Interests
+- Backend Development (Django)
 - Artificial Intelligence & Machine Learning
 - Web Scraping & Automation
-- Backend Development (Django)
 - Building smart, helpful tools
 
 ---
